@@ -20,3 +20,16 @@ http://www.macoratti.net/18/02/xf_cardview1.htm
 
 -Charts
 https://github.com/aloisdeniel/Microcharts
+
+
+
+
+<Label TextColor="#4489FE" VerticalTextAlignment="Center" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" >
+  <Label.FormattedText>
+      <FormattedString>
+          <Span Text="Você tem uma " FontSize="Medium"/>
+          <Span Text="avaliação " FontAttributes="Bold" FontSize="Medium" />
+          <Span Text="de aula pendente" FontSize="Medium" />
+      </FormattedString>
+  </Label.FormattedText>
+</Label>
