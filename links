@@ -21,7 +21,8 @@ http://www.macoratti.net/18/02/xf_cardview1.htm
 -Charts
 https://github.com/aloisdeniel/Microcharts
 
-
+-Two sliders
+https://github.com/halkar/xamarin-range-slider
 
 
 <Label TextColor="#4489FE" VerticalTextAlignment="Center" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" >
