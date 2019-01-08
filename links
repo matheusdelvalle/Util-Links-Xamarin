@@ -25,6 +25,8 @@ https://github.com/aloisdeniel/Microcharts
 https://github.com/halkar/xamarin-range-slider
 
 
+https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI
+
 <Label TextColor="#4489FE" VerticalTextAlignment="Center" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" >
   <Label.FormattedText>
       <FormattedString>
